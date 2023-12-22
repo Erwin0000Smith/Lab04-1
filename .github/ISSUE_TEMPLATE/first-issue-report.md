@@ -16,7 +16,7 @@ body:
      label: Contract Details
      description: Also tell us, what did you expect to happen?
      placeholder: ex. email@example.com
-   validation:
+   validations:
      required: false
  - type: textarea
    id: what-happened
