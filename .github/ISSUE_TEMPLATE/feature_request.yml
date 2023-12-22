@@ -1,7 +1,7 @@
 name: NewFeture
 description: Feture
 title: "[feture]: "
-labels:
+labels: ""
 assignees: 
  - octocat
 body:
